@@ -1,0 +1,15 @@
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\bin\Debug\ConsoleApp_Tarea1.exe.config
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\bin\Debug\ConsoleApp_Tarea1.exe
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\bin\Debug\ConsoleApp_Tarea1.pdb
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.exe
+C:\Users\AMD\Documents\Proyectos\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.pdb
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\bin\Debug\ConsoleApp_Tarea1.exe.config
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\bin\Debug\ConsoleApp_Tarea1.exe
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\bin\Debug\ConsoleApp_Tarea1.pdb
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.csproj.AssemblyReference.cache
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.csproj.SuggestedBindingRedirects.cache
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.csproj.CoreCompileInputs.cache
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.exe
+E:\Progra Avanzada\ConsoleApp_Tarea1\ConsoleApp_Tarea1\ConsoleApp_Tarea1\obj\Debug\ConsoleApp_Tarea1.pdb

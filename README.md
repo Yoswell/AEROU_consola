@@ -6,14 +6,14 @@ los diferentes vuelos realizados durante el año. Es por esa razón que le han c
 cuente con las siguientes funcionalidades:
 
 El sistema debe contar con un menú principal con las siguientes opciones:
-  • Registro Cliente
-  • Registro Aeropuerto
-  • Registro Aerolínea
-  • Registro Vuelo
-  • Consulta de Aeropuertos
-  • Consulta de Aerolíneas
-  • Consulta de Vuelos
-  • Consulta de Clientes
+Registro Cliente
+Registro Aeropuerto
+Registro Aerolínea
+Registro Vuelo
+Consulta de Aeropuertos
+Consulta de Aerolíneas
+Consulta de Vuelos
+Consulta de Clientes
 
 Debe utilizar POO (Programación orientada a objetos) para resolver el problema
 • Las clases de objetos (Cliente, Aeropuerto, Aerolínea, Vuelo) no deben contener lógica para solicitar información al usuario, solo debe tener la estructura de la clase   y sus propiedades.
